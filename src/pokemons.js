@@ -1,5 +1,6 @@
 // Iteration 1: All Fire Pokemons- get the array of all Fire type pokemons
 
+
 // Iteration 2: Shortest Pokemon- find the `name` of the shortest pokemon
 
 // Iteration 3: candy_count average - average of `candy_count` for all the pokemons
